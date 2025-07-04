@@ -8,7 +8,7 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaiDevX8&theme=dark&hide_border=false" height="150" alt="streak stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaiDevX8&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-charan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph" />
 </div>
 
 <br>
@@ -18,7 +18,7 @@
   <summary><strong>Github Trophies</strong></summary>
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=RaiDevX8&theme=discord" alt="RaiDevX8" />
+      <img src="https://github-profile-trophy.vercel.app/?username=dev-charan&theme=discord" alt="RaiDevX8" />
     </a>
   </p>
 </details>
