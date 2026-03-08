@@ -8,7 +8,7 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-charan&theme=dark&hide_border=false" height="150" alt="streak stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-charan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=dev-charan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph" />
 </div>
 
 <br>
